@@ -4,8 +4,24 @@ I am Raj Tejaswee, and I hold a Bachelor's degree in Computer Science and Engine
 
 ## Skills:
 #### App Development | Web Development | Data Analysis 
-## Tools ⚒️ :
-<img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/flutter.png" alt="banner flutter">
+## Tech Stack : 
+### Languages
+<p align="left">
+    <img src="assets/icons/java.png" alt="Java" width="40" height="40"/>
+    <img src="assets/icons/csharp.png" alt="C#" width="40" height="40"/>
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+    <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
+    <img src="assets/icons/react.png" alt="React" width="40" height="40"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+    <img src="assets/icons/mysql.png" alt="MySQL" width="40" height="40"/>
+    <img src="assets/icons/git.png" alt="Git" width="40" height="40"/>
+</p>
 
 
 
