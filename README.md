@@ -7,7 +7,7 @@ I am Raj Tejaswee, and I hold a Bachelor's degree in Computer Science and Engine
 ## Tech Stack : 
 ### Languages
 <p align="left">
-    <img src="assets/icons/java.png" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/java-logo.png" alt="Java" width="40" height="40"/>
     <img src="assets/icons/csharp.png" alt="C#" width="40" height="40"/>
 </p>
 
