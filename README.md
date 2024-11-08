@@ -9,12 +9,11 @@
 ### *Languages and Development:*
 <p align="left">
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/java-logo.png" alt="Java" width="40" height="60"/>
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Python.png" alt="Python" width="60" height="60"/>
+     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Python.png" alt="Python" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/C%23.png" alt="C#" width="80" height="80"/>
       <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/html.png" alt="HTML" width="40" height="55"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/css3.png" alt="CSS" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/javascript.png" alt="JavaScript" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/kotlin.png" alt="kotlin" width="170" height="60"/>
      
 </p>
 
@@ -22,8 +21,6 @@
 <p align="left">
     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/PngItem_335825.png" alt=".NET" width="60" height="60"/>
     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/flutter.png" alt="Flutter" width="60" height="60"/>
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/android.png" alt="android" width="60" height="60"/>
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/vuejs.png" alt="vuejs" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/nodejs.png" alt="NodeJs" width="120" height="60"/> 
 </p>
 
@@ -37,7 +34,7 @@
 ### *Python Libraries:*
 <p align="left">
     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Pandas.png" alt="Pandas" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/scikit-learn.png" alt="scikit-learn.png" width="90" height="60"/>
+     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/scikit-learn.png" alt="sci-kit-learn.png" width="90" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Matplotlib.png" alt="Matplotlib.png" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/NumPy.png" alt="NumPy.png" width="60" height="60"/>
 </p>
@@ -45,8 +42,8 @@
 ### *Other Tools:*
 <p align="left">
     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/github.png" alt="Github" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/vscode.png" alt="vscode" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/visualStudio.png" alt="visualStudio" width="60" height="60"/>
+     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/vscode.png" alt="vs code" width="60" height="60"/>
+     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/visualStudio.png" alt="VisualStudio" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/latex.png" alt="latex" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/ae.png" alt="ae" width="60" height="60"/>
      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/premiere_pro.png" alt="premiere" width="60" height="60"/>
