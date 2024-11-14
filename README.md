@@ -1,57 +1,43 @@
-## Hi there 👋
-<img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/HEADER.png" alt="banner that says rajtejaswee - software developer">
+# Hi, I'm Raj Tejaswee! 👋
 
-***I am Raj Tejaswee, and I hold a Bachelor's degree in Computer Science and Engineering from IIIT Vadodara, India. My primary area of interest lies in programming, app development, and data science. Proficiency in several programming languages, including Java, Python, and JavaScript has equipped me to tackle diverse challenges. My experience extends to development frameworks like Flutter and working with databases such as MySQL and Firebase.*** <br>
+**Bachelor's in Computer Science and Engineering**  
+**Indian Institute of Information Technology Vadodara, India**  
 
-## Skills👨🏻‍💻
-#### *App Development* | *Web Development* | *Data Analysis* 
-## Tech Stack⚙️
-### *Languages and Development:*
-<p align="left">
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/java-logo.png" alt="Java" width="40" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Python.png" alt="Python" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/C%23.png" alt="C#" width="80" height="80"/>
-      <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/html.png" alt="HTML" width="40" height="55"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/css3.png" alt="CSS" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/javascript.png" alt="JavaScript" width="60" height="60"/>
-     
-</p>
+🚀 **Turning ideas into impactful software solutions!**  
+I’m a passionate developer skilled in building efficient and scalable applications in web, and data science domains. My technical toolkit spans **Java, Python, and JavaScript**, alongside frameworks and databases to meet diverse challenges.
 
-### *Frameworks/Open-source, cross-platform:* 
-<p align="left">
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/PngItem_335825.png" alt=".NET" width="60" height="60"/>
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/flutter.png" alt="Flutter" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/nodejs.png" alt="NodeJs" width="120" height="60"/> 
-</p>
+---
 
-### *Database:*
-<p align="left">
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/mysql.png" alt="mysql" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/mongodb.png" alt="mongodb" width="120" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/firebase.png" alt="firebase" width="40" height="60"/>
-</p>
+## 💡 About Me
+🔹 I’m always curious and eager to learn about new technology and programming advancements.  
+🔹 Currently building projects in **React.js** and experimenting with **Tailwind CSS** and **Three.js**.  
+🔹 In my spare time, I enjoy running, designing, and improving my skills in **Adobe InDesign** and **After Effects**.
 
-### *Python Libraries:*
-<p align="left">
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Pandas.png" alt="Pandas" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/scikit-learn.png" alt="sci-kit-learn.png" width="90" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/Matplotlib.png" alt="Matplotlib.png" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/NumPy.png" alt="NumPy.png" width="60" height="60"/>
-</p>
+---
 
-### *Other Tools:*
-<p align="left">
-    <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/github.png" alt="Github" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/vscode.png" alt="vs code" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/visualStudio.png" alt="VisualStudio" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/latex.png" alt="latex" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/ae.png" alt="ae" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/premiere_pro.png" alt="premiere" width="60" height="60"/>
-     <img src="https://github.com/rajtejaswee/rajtejaswee/blob/main/assets/adobeid.png" alt="ID" width="60" height="60"/>
-</p>
+## 🛠 Skills Overview
 
-## Connect🌎
-- ### *Gmail* : rajtejaswee02@gmail.com
-- ### *LinkedIn* : https://www.linkedin.com/in/raj-tejaswee-147603247/
-- ### *X* : https://x.com/raj_tejaswee
-- ### *Discord* : raj_tejaswee
+### Development Areas
+- **Web Development** | **Data Analysis and Visualization**
+
+### Tech Stack
+| Category           | Technologies                                                                 |
+| ------------------ | ----------------------------------------------------------------------------- |
+| **Languages**      | ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-blue) |
+| **Web**            | ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-darkgreen) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![ReactJs](https://img.shields.io/badge/-ReactJs-blue) ![Redux](https://img.shields.io/badge/-Redux-red) ![ThreeJs](https://img.shields.io/badge/-ThreeJs-pink) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![C#](https://img.shields.io/badge/-C%23-purple) |
+| **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-purple) ![Flutter](https://img.shields.io/badge/-Flutter-lightblue) |
+| **Databases**      | ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-yellow) |
+| **Python Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-orange) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightblue) ![NumPy](https://img.shields.io/badge/-NumPy-darkblue) |
+| **Tools**          | ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey) ![VS Code](https://img.shields.io/badge/-VS_Code-blue) ![LaTeX](https://img.shields.io/badge/-LaTeX-lightblue) ![Adobe After Effects](https://img.shields.io/badge/-After_Effects-violet) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-lightblue) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-orange) ![Figma](https://img.shields.io/badge/-Figma-red) ![InDesign](https://img.shields.io/badge/-InDesign-pink) |
+
+---
+
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajtejaswee02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tejaswee-147603247/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/raj_tejaswee)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)]()
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rajtejaswee)
+
+Let’s connect and collaborate on exciting projects that push boundaries! 😊
