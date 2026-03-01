@@ -21,7 +21,10 @@
     <img src="https://img.shields.io/badge/Codeforces-1157%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
+
+
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -36,17 +39,6 @@ Backend Engineer specializing in **scalable REST APIs**, **real-time communicati
 
 ---
 
-## 🧠 Core Engineering Focus
-
-- Distributed Backend Systems  
-- Real-Time Communication (WebSockets)  
-- API Performance Optimization  
-- Database Indexing & Query Tuning  
-- Authentication & Authorization (JWT, OAuth 2.0)  
-- Caching & Rate Limiting  
-- Logging & Production Observability  
-
----
 
 ## 💻 Programming Languages
 
@@ -91,19 +83,10 @@ Backend Engineer specializing in **scalable REST APIs**, **real-time communicati
 
 ---
 
-## 🧮 Programming Profile
-
-<p align="center">
-  
-</p>
-
----
-
 
 ## 🧾 Developer Summary
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtejaswee&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=rajtejaswee&theme=radical"/>
   
 </p>
 
