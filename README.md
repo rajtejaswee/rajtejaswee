@@ -1,42 +1,110 @@
-# Hi, I'm Raj Tejaswee! 👋
+<h1 align="center">Raj Tejaswee</h1>
+<h3 align="center">Backend Engineer • Real-Time Systems • Scalable API Architect</h3>
 
-**Bachelor's in Computer Science and Engineering**  
-**Indian Institute of Information Technology Vadodara, India**  
+<p align="center">
+  <a href="mailto:rajtejaswee@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raj-tejaswee-147603247/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+ <a href="https://rajtejaswee.live">
+  <img src="https://skillicons.dev/icons?i=htmx" height="40"/>
+</a>
+  <a href="https://x.com/raj_tejaswee">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-1157%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
+---
 
-🚀 **Turning ideas into impactful software solutions!**  
-I’m a passionate developer skilled in building efficient and scalable applications in web, and data science domains. My technical toolkit spans **Java, Python, and JavaScript**, alongside frameworks and databases to meet diverse challenges.
+## 👨‍💻 About Me
+
+Backend Engineer specializing in **scalable REST APIs**, **real-time communication systems**, and **production-grade backend architecture**.
+
+- Built and optimized high-scale REST APIs using Node.js & Express  
+- Reduced API latency through PostgreSQL query optimization & indexing  
+- Engineered low-latency WebSocket systems for real-time collaboration  
+- Designed secure JWT + OAuth authentication systems  
+- Implemented Redis multi-layer caching achieving sub-50ms responses  
+- Focused on reliability, observability, and system design  
 
 ---
 
-## 💡 About Me
-🔹 I’m always curious and eager to learn about new technology and programming advancements.  
-🔹 Currently building projects in **React.js** and experimenting with **Tailwind CSS** and **Three.js**.  
-🔹 In my spare time, I enjoy running, designing, and improving my skills in **Adobe InDesign** and **After Effects**.
+## 🧠 Core Engineering Focus
+
+- Distributed Backend Systems  
+- Real-Time Communication (WebSockets)  
+- API Performance Optimization  
+- Database Indexing & Query Tuning  
+- Authentication & Authorization (JWT, OAuth 2.0)  
+- Caching & Rate Limiting  
+- Logging & Production Observability  
 
 ---
 
-## 🛠 Skills Overview
+## 💻 Programming Languages
 
-### Development Areas
-- **Web Development** | **Data Analysis and Visualization**
-
-### Tech Stack
-| Category           | Technologies                                                                 |
-| ------------------ | ----------------------------------------------------------------------------- |
-| **Languages**      | ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-blue) |
-| **Web**            | ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-darkgreen) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Typescript](https://img.shields.io/badge/-C%23-blue) | ![Redux](https://img.shields.io/badge/-Redux-red) ![Node.js](https://img.shields.io/badge/-Node.js-green)|
-| **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-purple) ![ReactJs](https://img.shields.io/badge/-ReactJs-blue) |
-| **Databases**      | ![MySQL](https://img.shields.io/badge/-MySQL-blue) | [Postgres](https://img.shields.io/badge/-Firebase-red) ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen) |
-| **Python Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-blue) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-orange) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightblue) ![NumPy](https://img.shields.io/badge/-NumPy-darkblue) |
-| **Tools**          | ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey) ![VS Code](https://img.shields.io/badge/-VS_Code-blue) ![LaTeX](https://img.shields.io/badge/-LaTeX-lightblue) ![Adobe After Effects](https://img.shields.io/badge/-After_Effects-violet) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-lightblue) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-orange) ![Figma](https://img.shields.io/badge/-Figma-red) ![InDesign](https://img.shields.io/badge/-InDesign-pink) |
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,ts,js" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Backend Technologies
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajtejaswee02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tejaswee-147603247/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/raj_tejaswee)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rajtejaswee)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
+</p>
 
-Let’s connect and collaborate on exciting projects that push boundaries! 😊
+---
+
+## 🏗 Architecture & ORM
+
+<p>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Frontend (For Full-Stack Systems)
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+## ⚙ DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" />
+</p>
+
+---
+
+## 🧮 Programming Profile
+
+<p align="center">
+  
+</p>
+
+---
+
+
+## 🧾 Developer Summary
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajtejaswee&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=rajtejaswee&theme=radical"/>
+  
+</p>
+
+---
